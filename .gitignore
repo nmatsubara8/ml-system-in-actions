@@ -137,7 +137,8 @@ cython_debug/
 dvc.yaml
 dvc.lock
 savedmodel
- 
+
 .vscode/*
 
 .DS_Store
+venv_py38*
